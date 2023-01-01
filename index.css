@@ -1,0 +1,39 @@
+.row{
+    background-color: gray;
+}
+h4{
+    margin:20px 450px;
+}
+.fa{
+    padding:20px
+}
+.main{
+    background-color: black;
+    padding: 200px 20px 250px 20px;
+    border-radius: 25px;
+}
+.col-md-4{
+    background-color: rgb(240, 233, 233);
+   padding: 80px 30px;
+}
+input{
+    height: 50px;
+    width: 500px;
+    border-radius: 10px;
+    margin: 50px 130px;
+    background-color: black;
+    color: aliceblue;
+}
+.body{
+    height:150px;
+    width:200px;
+    background-color: black;
+    border-radius: 20px;
+}
+.sec{
+    height:150px;
+    width:600px;
+    background-color: black;
+    border-radius: 20px;
+    margin: 60px;
+}
